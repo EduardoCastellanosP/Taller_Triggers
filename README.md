@@ -25,7 +25,7 @@ El proyecto contiene los siguientes archivos y carpetas:
 ## 📌 Temas Abordados
 
 - Creación de base de datos y tablas
-- FUNCIONES DEFINIDAS POR EL USUARIO
+- TRIGGERS
 ## ✅ Requisitos para Ejecutar
 
 - Tener instalado MySQL Server
